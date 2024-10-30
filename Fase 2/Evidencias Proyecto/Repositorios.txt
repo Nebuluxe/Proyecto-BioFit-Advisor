@@ -1,0 +1,12 @@
+
+--Repositorios de los proyectos
+
+-App Mobile: https://github.com/AlexSkyBlue/BioFitAdvisor.git
+
+-Api Principal (Logica de negoicio): https://github.com/Nebuluxe/API.BioFitAdvisor.git
+
+-Api Integraciones (Integraciones con servicios externos): https://github.com/ctronp/fitAiIntegration.git
+
+-Api Escaneo Corporal con tensorFlow: https://github.com/Nebuluxe/API-Body-Sacenner.git
+
+-Proyecto Migraciones y versionado de BD: https://github.com/ctronp/fitAiIntegration.git
